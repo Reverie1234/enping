@@ -13,21 +13,31 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Mixxt
+  descr: "A music sharing app that allows users to share links from different music platforms such as Spotify, Netease, and QQ Music"
+  demo:
+  image: mixxt.gif
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Rails
+    - tag: Ruby
+    - tag: Javascript
+    - tag: Bootstrap
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Cocktails Galore
+  descr: "A simple app that allows users to store, create, and maintain, cocktail recipes."
+  demo:
+  image: cocktail.gif
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Rails
+    - tag: Ruby
+    - tag: Javascript
+    - tag: Bootstrap
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Fancy Up
+  descr: "Wechat Miniprogram that allows users to rent clothing."
+  demo:
+  image: fancyup.gif
+  tags:
+    - tag: Wxml
+    - tag: Wxss
+    - tag: Javascript

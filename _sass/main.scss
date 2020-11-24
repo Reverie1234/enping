@@ -527,7 +527,7 @@ a {
 
     &:hover span {
       letter-spacing: 0.05rem;
-      padding-right: 1.25rem;
+      padding-right: 1rem;
     }
 
     &:hover span:after {
@@ -565,6 +565,8 @@ a {
   border-radius: 1rem;
   margin: 1rem 0;
   padding: 0.5rem 1rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .project .name-link-wrapper {
@@ -595,6 +597,21 @@ a {
   display: inline-block;
   margin-bottom: 0.25rem;
   padding: 0.5rem;
+}
+
+.img-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  align-items: center;
+}
+
+.card-image {
+  width: 50%;
+  object-fit: cover;
+}
+.card-image-wide {
+  width: 80%;
 }
 
 /* Contact Card */
