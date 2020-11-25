@@ -7,7 +7,7 @@ title: Nate Su
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/mirrorportfolio"
+baseurl: "/enping"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -86,7 +86,7 @@ contact_description: If you would like to work with me please contact me with th
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: Reverie1234/mirrorportfolio
+repository: Reverie1234/enping
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
